@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+dist/*.hot-update.json
+dist/*.hot-update.js
+dist/bundle.js
